@@ -1,7 +1,7 @@
 UIImageView-AFNetworking-OneByOneQueue
 ======================================
 
-New parameter added for UIImageView+AFNetworking by simply adding a new NSOperationQueue instance. 
+New parameter added for UIImageView+AFNetworking methods by simply adding a new NSOperationQueue instance. 
 
 * \- (void)setImageWithURL:(NSURL *)url **oneByOne:(BOOL)isOneByOne**;  
 
